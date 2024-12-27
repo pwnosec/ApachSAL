@@ -1,12 +1,11 @@
-
 class BannerMrclw:
     def __new__(cls):
-      return  (f'''\033[33m
+        return (f'''\033[33m
                                    .,,
-                                  (=\/\\
-                                   \=\/\\
-                                    \=\/\\
-                                     `=\/
+                                  (=\\/\\
+                                   \\=\\/\\
+                                    \\=\\/\\
+                                     `=\\/
                                         \                                                                                                                  
            \33[37m TRAVERSAL [ APACHE ]\033[0m\033[33m
  ▄▄▄       ██▓███   ▄▄▄       ▄████▄   ██░ ██   ██████  ▄▄▄       ██▓    
@@ -21,7 +20,7 @@ class BannerMrclw:
                              ░                                           
                                                                    
               
-                      By: imhunterand /labsbots.com/
-                      https://twitter.com/imhunterand 
-                      https://github.com/imhunterand/                                                                        
+                      Hak Cipta © 2024 PT. PwnOsec Technologies Ltd
+                      research.pwn0sec.com 
+                      instagram.com/pwn0sec                                                                      
         \033[0m''')
