@@ -80,7 +80,7 @@ Proyek ini dilisensikan di bawah model lisensi berikut:
 ## Kontak
 Jika Anda memiliki pertanyaan terkait penggunaan, lisensi, atau memerlukan izin penggunaan komersial, silakan hubungi kami di:
 - **Email:** info@pwnosec.com
-- **Situs Web:** [www.pwnosec.com](http://www.pwnosec.com)
+- **Situs Web:** [www.pwnosec.com](http://www.pwn0sec.com)
 - **Alamat Kantor:**
   PT. PwnOsec Technologies Ltd. 
   Jl. Sultan Iskandar Muda No.8 Lt. 32, Gandaria 8 Office Tower. Gandaria City, Jakarta Selatan, Indonesia 12240
